@@ -1,0 +1,11 @@
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\obj\Debug\netstandard2.1\CSharp8-Examples.csprojAssemblyReference.cache
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\obj\Debug\netstandard2.1\CSharp8-Examples.AssemblyInfoInputs.cache
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\obj\Debug\netstandard2.1\CSharp8-Examples.AssemblyInfo.cs
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\bin\Debug\netstandard2.1\CSharp8-Examples.deps.json
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\bin\Debug\netstandard2.1\CSharp8-Examples.dll
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\bin\Debug\netstandard2.1\CSharp8-Examples.pdb
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\bin\Debug\netstandard2.1\Shared.dll
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\bin\Debug\netstandard2.1\Shared.pdb
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\obj\Debug\netstandard2.1\CSharp8-Examples.csproj.CopyComplete
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\obj\Debug\netstandard2.1\CSharp8-Examples.dll
+C:\Users\u12r23\source\repos\CSharp8-Examples\CSharp8-Examples\obj\Debug\netstandard2.1\CSharp8-Examples.pdb
