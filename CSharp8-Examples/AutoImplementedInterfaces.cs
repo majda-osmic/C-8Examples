@@ -1,5 +1,8 @@
 using System;
 
+#nullable disable
+
+
 namespace CSharp8_Examples
 {
     #region Hide for a TA-DA effect
