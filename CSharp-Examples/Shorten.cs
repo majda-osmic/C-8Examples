@@ -44,7 +44,7 @@ namespace CSharp_Examples
                     break;
                 case AppLovSystemFlagsEnum.SingleRevision:
                     index = items.IndexOf("Single Revision");
-                    break;
+                    break; 
             }
             return index.Process();
         }

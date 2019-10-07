@@ -1,7 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 using Shared;
 
 namespace CSharp8_Examples
@@ -98,13 +96,12 @@ namespace CSharp8_Examples
             var now = DateTime.Now.ToOADate();
             return auth switch
             {
-                var (isLoggedIn, expiryDate) when isLoggedIn && expiryDate < now + 28 => "Your account will expire within next 4 weeks",
-                var (isLoggedIn, expiryDate) when !isLoggedIn && expiryDate < now  => "Your account has expired",
+                var(isLoggedIn, expiryDate) when isLoggedIn && expiryDate < now + 28 => "Your account will expire within next 4 weeks",
+                var(isLoggedIn, expiryDate) when !isLoggedIn && expiryDate < now => "Your account has expired",
                 (true, _) => "OK",
                 _ => "Unavailable"
             };
         }
-
 
 
         #endregion

@@ -4,11 +4,11 @@ using System.Windows.Input;
 
 #nullable enable
 
-namespace CSharp8_Examples
+namespace CSharp8_Examples.NullablesEnabled
 {
 
     #region Simple case
-    class NullablesEnabled_1
+    class SimpleClass_1
     {
         private void ShowMessage()
         {
@@ -25,7 +25,7 @@ namespace CSharp8_Examples
         }
     }
 
-    class NullablesEnabled_2
+    class SimpleClass_2
     {
         private void ShowMessage()
         {
